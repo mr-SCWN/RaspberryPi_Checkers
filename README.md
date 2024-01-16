@@ -2,6 +2,8 @@
 
 Project was maden in the Poznan University of Technology for subject "Embedded Systems", it was maden in Python langugage.
 
+Also you can watch a small video, how checkers are working
+
 --------------------------
 
 The project consists of Raspberry Pi minicomputer, joysticks, buttons and LED tape.
